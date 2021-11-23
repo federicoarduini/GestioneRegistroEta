@@ -7,6 +7,7 @@ Il programma, dopo aver richiesto all’utente il nome del file di registro, dov
 - Incrementa età, per incrementare di 1 l’età di un particolare studente;
 - Salva dati, per salvare il registro su file.
 - Esci, per uscire dal programma.
+
 Tutte le operazioni di inserimento/modifica dei dati del registro dovranno essere effettuate utilizzando i vettori. 
 Il registro verrà salvato su file solo dopo aver scelto l’opzione “Salva dati” dal menù. Se l’utente sceglie di uscire dal programma senza aver salvato il registro, controllare se il registro ha subito modifiche rispetto al file originale. Se ci sono state modifiche, occorre avvertire l’utente per non fargli perdere quelle modifiche.
 Concludendo, in generale il programma dovrà prevedere:
